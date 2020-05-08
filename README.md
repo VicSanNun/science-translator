@@ -1,26 +1,11 @@
-<p align="center"><img src="/src/medias/political-avatar.svg" alt="Political Avatar" width="200"></p>
+<p align="center"><img src="/src/medias/sagan.png" alt="Political Avatar" width="200"></p>
 
-# Despolitizador
+# Science Translator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a0990c78-c967-47c2-b9ff-562b477324f7/deploy-status)](https://app.netlify.com/sites/despolitizador/deploys)
 [![license](https://img.shields.io/github/license/felipefialho/despolitizador.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/despolitizador.svg)](https://github.com/felipefialho/despolitizador/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/despolitizador.svg)](https://github.com/VicSanNun/science-translator/graphs/contributors)
 
-> To translate political language for people's language
-
-[View project](https://despolitizador.felipefialho.com/)
-
-## Add new words
-
-It is simple, you need to access the [`src/library.json`](https://github.com/felipefialho/despolitizador/edit/master/src/library.json), add the new word and submit a pull request. 
-
-Example:
-
-```json
-  "vossa excelência": "mano"
-```
-
-It need that all words in our library.json using the correct grammar.
+> To translate scientific language for people's language
 
 ## Getting Started
 
@@ -29,8 +14,8 @@ This project uses Pug, Stylus and Webpack.
 
 ```sh
 # Clone this repository
-$ git clone git@github.com:felipefialho/despolitizador.git
-$ cd despolitizador
+$ git clone git@github.com:VicSanNun/science-translator.git
+$ cd science-translator
 
 # install dependencies
 $ npm i
@@ -62,7 +47,8 @@ To help you, this project has a `npm run fix` command to fix all eslint errors.
 ## Credits
 
 Thanks [marcelokohl](https://github.com/marcelokohl) for the ideia to name of project 😄
+Thanks [Felipe Fialho](https://github.com/felipefialho) for develop the [Despolitizador](https://despolitizador.felipefialho.com/)
 
 ## License
 
-MIT License © Felipe Fialho
+MIT License © Victor Nunes
