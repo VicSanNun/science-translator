@@ -1,16 +1,14 @@
-<p align="center"><img src="/src/medias/sagan.png" alt="Political Avatar" width="200"></p>
+<p align="center"><img src="/src/medias/sagan.png" alt="Sagan Photo" width="200"></p>
 
 # Science Translator
 
 [![license](https://img.shields.io/github/license/felipefialho/despolitizador.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/despolitizador.svg)](https://github.com/VicSanNun/science-translator/graphs/contributors)
 
 > To translate scientific language for people's language
 
 ## Getting Started
 
 This project uses Pug, Stylus and Webpack.
-
 
 ```sh
 # Clone this repository
@@ -47,6 +45,7 @@ To help you, this project has a `npm run fix` command to fix all eslint errors.
 ## Credits
 
 Thanks [marcelokohl](https://github.com/marcelokohl) for the ideia to name of project 😄
+
 Thanks [Felipe Fialho](https://github.com/felipefialho) for develop the [Despolitizador](https://despolitizador.felipefialho.com/)
 
 ## License
